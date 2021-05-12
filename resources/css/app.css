@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'flatpickr.css';
+@import 'modifications.css';
+@import '../../node_modules/tippy.js/dist/tippy.css';
+@import '../../node_modules/tippy.js/dist/backdrop.css';
+@import '../../node_modules/tippy.js/dist/border.css';
+@import '../../node_modules/tippy.js/dist/svg-arrow.css';
